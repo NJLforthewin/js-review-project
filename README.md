@@ -1,3 +1,3 @@
-# javascript review project by john christian sancija
+# Javascript Review Project By John Christian Sancija
 
 PROJECT FOR BEGGINER TO ADVANCE
