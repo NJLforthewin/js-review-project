@@ -1,4 +1,4 @@
-# Javascript Review Project By John Christian Sancija
+# Javascript Review Project By CORDOVA PISOT
 
 PROJECT FOR BEGGINER TO ADVANCE
 
